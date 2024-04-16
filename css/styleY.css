@@ -1,0 +1,36 @@
+table,tr,th,td{
+    border:1px solid #b1abab;
+    padding: 10px;
+    margin-bottom: 20px;
+    
+
+
+    
+   
+}
+
+table{
+    background-color: #372f3f;
+    color: white;
+    width: 400px;
+    height: 400px;
+}
+
+button{
+    background-color:  #aba7a7;
+    margin-top: 60px;
+    height: 40px;
+    width: 150px;
+    border-radius: 150px;
+    color: white;
+
+
+
+}
+
+
+button:hover{
+    background-color: orange;
+}
+
+

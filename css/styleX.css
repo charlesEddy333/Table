@@ -1,0 +1,42 @@
+table,tr,th,td{
+    border:1px solid #b1abab;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-bottom: 20px;
+   
+}
+
+
+table{
+    background-color: #bcbcbc;
+}
+
+
+
+.A{
+    background-color: #52b3d4;
+}
+
+
+.B{
+    background-color: #59ccf3;
+}
+
+
+
+.C{
+    background-color: #59ccf3;
+}
+
+
+.D{
+    background-color: green;
+}
+
+
+
+.E{
+    background-color: yellow;
+}
+
+

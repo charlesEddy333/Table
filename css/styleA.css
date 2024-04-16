@@ -1,0 +1,79 @@
+.p{
+    text-align: center;
+    color: lime;
+ }
+
+ h4{
+    color: green;
+ }
+ 
+ h3{
+    margin-left: 220px;
+    margin-top: -20px;
+   
+ }
+ 
+ table{
+    
+    border: 0px solid #ffffff;
+    border-collapse: collapse;
+    background-color:#fcfcfc;
+    color:black;
+   height: 500px;
+ width:100%;
+ text-align: center;
+ color: green;
+ 
+ }
+ hr{
+    width: 100%;
+    background-color: yellow;
+ 
+ }
+
+ .nam{
+    background-color: #1f1f44;
+    color: white;
+
+    
+ }
+ 
+ 
+ td,td{
+    border-right: 1px solid rgb(0, 0, 0);
+    color: black;
+ }
+ .month{
+    font-size: 30px;
+    color: green;
+ }
+ .end{
+    padding: 5px;
+    color: green;
+ }
+ .button{
+    margin-top: 70px;
+    color: white;
+    background-color: orangered;
+    height: 50px;
+    width: 90%; 
+    border-radius: 10px; 
+ }
+
+ .button:hover{
+    background-color: orange;
+ }
+
+ .btn{
+    background-color: cyan;
+    width: 70px;
+    height: 60px;
+    border-radius: 10px;
+    color: white;
+    margin-left: 90px;
+
+ }
+
+ .btn:hover{
+    background-color: limegreen;
+ }

@@ -1,0 +1,30 @@
+table,tr,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 30px;
+
+}
+
+button{
+    background-color:rgb(33, 197, 164)yellow;
+}
+
+
+table{
+    background-color:black;
+    color: white;
+}
+
+th{
+    background-color: #423a3a;
+}
+
+tr:nth-child(even){
+    background-color: grey;
+
+}
+
+button:hover{
+
+    background-color: white;
+}

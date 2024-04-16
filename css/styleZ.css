@@ -1,0 +1,46 @@
+table,tr,th,td{
+    border:0px solid #b1abab;
+    padding: 10px;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+
+
+
+    
+   
+}
+
+td{
+    text-align: center;
+}
+
+
+button{
+    background-color: aqua;
+    height: 40px;
+    width: 70px;
+    border-radius: 90px;
+    border: none;
+
+}
+
+
+button:hover{
+    background-color: white;
+    
+
+}
+
+.A{
+    width: 150px;
+
+}
+
+.B{
+    width: 150px;
+}
+
+.Z{
+    width: 150px;
+    background-color: aqua;
+}

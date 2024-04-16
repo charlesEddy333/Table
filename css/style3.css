@@ -1,0 +1,38 @@
+table,tr,th,td{
+    border:1px solid #b1abab;
+    border-collapse: collapse;
+    padding: 10px;
+    margin-bottom: 20px;
+   
+    
+}
+
+
+
+tr:nth-child(even){
+     background-color: #e2dcdc;
+
+}
+
+.a{
+   background-color:pink;
+   height:20px;
+   width: 50%;
+}
+
+
+
+.b{
+    background-color:green;
+ }
+ 
+ 
+ .c{
+    background-color:blue;
+ }
+ 
+table{
+    width: 70%;
+    height: 25px;
+
+}
